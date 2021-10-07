@@ -17,7 +17,7 @@ app.use(require("./views/views"));
 
 app.use(require("./views/api"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", { useNewUrlParser: true, useFindAndModify: false, useUnifiedTopology: true });
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhoworkoutst/", { useNewUrlParser: true, useFindAndModify: false, useUnifiedTopology: true });
 
 app.listen(PORT, () => {
     console.log(`App running on port ${PORT}!`);
