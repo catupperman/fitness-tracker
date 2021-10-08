@@ -42,7 +42,7 @@ Applications used to create the Fitness Tracker:
 ## Contributions
 > My teacher, and TAs were a big help in explaining the process of MongoDB and Mongoose.  My tutor, Corey Yates, was a big help when I was having some trouble in a few pain points. Not only was she helpful, but educational.  
 ## Testing
-> To test the application, I began to run the server using ```node server.js``` in the terminal.  Then checking the web page to make sure the application was running smoothly from page to page, and holding onto the data after entering.
+> To test the application, I began to run the server using ```node server.js``` in the terminal.  Then checking the web page to make sure the application was running smoothly from page to page, through the local host, and to ensure the page was retaining the data and entering it into the database.  Once all the routes were running smoothly, the application was deployed to [Heroku](http://www.heroku.com) and seeded with [MongoDBAtlas](https://www.mongodb.com/de-de/cloud/atlas?utm_content=rlsapostreg&utm_source=google&utm_campaign=gs_americas_uscan_search_brand_dsa_atlas_desktop_rlsa_postreg&utm_term=&utm_medium=cpc_paid_search&utm_ad=b&utm_ad_campaign_id=14383025495&gclid=CjwKCAjwtfqKBhBoEiwAZuesiB2W-7wy2KkPBT_vucDqKqCttvbdtfAxzvcaExpgSNloHZVGBrFwFRoCMeIQAvD_BwE). 
 <p align="center">
   <img width="560" height="400" src="images/appgif.gif">
 </p> 
